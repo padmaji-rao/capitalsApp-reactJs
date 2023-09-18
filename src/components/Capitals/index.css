@@ -1,0 +1,28 @@
+.bg-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: #93c5fd;
+  height: 100vh;
+}
+.card-container {
+  background-color: #f8fafc;
+  padding: 30px;
+  border-radius: 10px;
+}
+.dropdown {
+  height: 35px;
+  padding-left: 10px;
+  padding-right: 30px;
+  outline: none;
+  border-radius: 3px;
+  border-color: #cbd2d9;
+  font-size: 15px;
+  font-weight: 600;
+}
+.para {
+  color: #1e293b;
+  font-size: 20px;
+  font-weight: 600;
+}
